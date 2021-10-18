@@ -1,4 +1,4 @@
-# Advanced_Regression_Techniques 
+# Advanced_Regression_Techniques (Bronze Medal) 
 
 A notebook containing all the advanced NLP techniques for Regression for the Kaggle competition :
 
